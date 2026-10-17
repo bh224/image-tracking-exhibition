@@ -1,0 +1,33 @@
+{
+  "revision": "dcbd1a12c30c4462b9010f91cf023325",
+  "targetUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/targets.mind",
+  "items": [
+    {
+      "id": 1,
+      "index": 0,
+      "title": "무대 위 아이돌",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/0.png",
+      "videoUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/0.mp4"
+    },
+    {
+      "id": 2,
+      "index": 1,
+      "title": "수빈",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/1.png",
+      "videoUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/1.mp4"
+    },
+    {
+      "id": 3,
+      "index": 2,
+      "title": "눈",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/2.png",
+      "videoUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/2.mp4"
+    }
+  ]
+}

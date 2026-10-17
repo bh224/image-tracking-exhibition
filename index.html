@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI 상상콘텐츠 놀이터</title>
+    <script type="module" crossorigin src="./assets/index-BIzl8csx.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-ADKDJt9p.css">
+  </head>
+  <body>
+    <main>
+      <header class="page-header">
+        <p class="eyebrow">WEB AR</p>
+        <h1>AI 상상콘텐츠 놀이터</h1>
+        <p>포토카드를 카메라로 비추면 연결된 영상이 카드 위에서 재생됩니다.</p>
+      </header>
+      <section class="ar-start" aria-label="AR 시작 안내">
+        <p class="note">
+          카메라 권한을 허용하고 그림 전체가 보이도록 비춰 주세요.
+        </p>
+        <button id="start" type="button" disabled>AR 시작</button>
+        <p id="message" role="status">등록된 그림을 불러오고 있습니다…</p>
+      </section>
+    </main>
+    <section id="ar-stage" hidden aria-label="AR 카메라">
+      <div id="camera-container"></div>
+      <div class="controls">
+        <p id="tracking-status" role="status">카메라를 준비하고 있습니다…</p>
+        <div>
+          <button id="sound" type="button" aria-pressed="false">
+            소리 켜기</button
+          ><button id="resume" type="button" hidden>영상 재생</button
+          ><button id="stop" type="button">종료</button>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
