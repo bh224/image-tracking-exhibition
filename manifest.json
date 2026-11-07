@@ -1,33 +1,168 @@
 {
-  "revision": "dcbd1a12c30c4462b9010f91cf023325",
-  "targetUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/targets.mind",
+  "revision": "ff1b7a5e6f9f463ab74d8023b530c9ad",
+  "targetUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/targets.mind",
   "items": [
     {
       "id": 1,
       "index": 0,
-      "title": "무대 위 아이돌",
+      "title": "란설희",
       "width": 600,
       "height": 800,
-      "imageUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/0.png",
-      "videoUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/0.mp4"
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/0.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/0.mp4"
     },
     {
       "id": 2,
       "index": 1,
-      "title": "수빈",
+      "title": "손수빈",
       "width": 600,
       "height": 800,
-      "imageUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/1.png",
-      "videoUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/1.mp4"
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/1.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/1.mp4"
     },
     {
       "id": 3,
       "index": 2,
-      "title": "눈",
+      "title": "샘플_눈 속성을 가진 얼음정령",
       "width": 600,
       "height": 800,
-      "imageUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/2.png",
-      "videoUrl": "releases/dcbd1a12c30c4462b9010f91cf023325/2.mp4"
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/2.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/2.mp4"
+    },
+    {
+      "id": 4,
+      "index": 3,
+      "title": "이승염",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/3.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/3.mp4"
+    },
+    {
+      "id": 5,
+      "index": 4,
+      "title": "신나은",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/4.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/4.mp4"
+    },
+    {
+      "id": 6,
+      "index": 5,
+      "title": "천수아",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/5.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/5.mp4"
+    },
+    {
+      "id": 7,
+      "index": 6,
+      "title": "박지원",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/6.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/6.mp4"
+    },
+    {
+      "id": 8,
+      "index": 7,
+      "title": "이현준",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/7.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/7.mp4"
+    },
+    {
+      "id": 9,
+      "index": 8,
+      "title": "황지호",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/8.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/8.mp4"
+    },
+    {
+      "id": 10,
+      "index": 9,
+      "title": "윤준혁",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/9.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/9.mp4"
+    },
+    {
+      "id": 11,
+      "index": 10,
+      "title": "황제빈",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/10.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/10.mp4"
+    },
+    {
+      "id": 12,
+      "index": 11,
+      "title": "진강도",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/11.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/11.mp4"
+    },
+    {
+      "id": 13,
+      "index": 12,
+      "title": "박준혁",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/12.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/12.mp4"
+    },
+    {
+      "id": 14,
+      "index": 13,
+      "title": "서권율",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/13.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/13.mp4"
+    },
+    {
+      "id": 15,
+      "index": 14,
+      "title": "조예은",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/14.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/14.mp4"
+    },
+    {
+      "id": 16,
+      "index": 15,
+      "title": "샘플_밤의 놀이공원",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/15.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/15.mp4"
+    },
+    {
+      "id": 17,
+      "index": 16,
+      "title": "샘플_아이돌가수",
+      "width": 600,
+      "height": 800,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/16.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/16.mp4"
+    },
+    {
+      "id": 18,
+      "index": 17,
+      "title": "샘플_AI프로듀서",
+      "width": 572,
+      "height": 1024,
+      "imageUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/17.png",
+      "videoUrl": "releases/ff1b7a5e6f9f463ab74d8023b530c9ad/17.mp4"
     }
   ]
 }
